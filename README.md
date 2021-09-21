@@ -1,6 +1,6 @@
 # Proyecto inicial - Reforzamiento de JavaScript
 
-## Para ver una prueba del proyecto [Haz click aquí ...](https://franbcn93.github.io/imagesApi)
+## Para ver una prueba del proyecto [Haz click aquí ...](https://franbcn93.github.io/ImageAPIRandom)
 
 - Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
 
