@@ -1,0 +1,7 @@
+node_modules/
+
+src/bases/api*
+
+
+package-lock.json
+
